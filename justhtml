@@ -1,0 +1,13 @@
+<h1>Try To Replicate This</h1>
+
+<div class="page2">
+  <ol>
+    <li><div class="box one"></div></li>
+    <li><div class="box two"></div></li>
+    <li><div class="box three"></div></li>
+    <li><div class="box four"></div></li>
+    <li><div class="box five"></div></li>
+    <li><div class="box six"></div></li>
+    <li><div class="box seven"></div></li>
+  </ol>
+</div>
